@@ -22,10 +22,15 @@ Key activities:
    
 2.Data Visualization:
 Histograms: To understand the distribution of individual numerical features.
+
 Box Plots: To identify outliers and understand the spread of the data.
+
 Scatter Plots: To explore relationships between pairs of numerical features.
+
 Pair Plots: To visualize relationships between multiple features simultaneously.
+
 Heatmaps: To visualize correlation matrices and identify potential multicollinearity between features.
+
 
 3.Correlation Analysis:
 Calculating correlation coefficients to understand the relationships between different features.
