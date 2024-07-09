@@ -54,3 +54,6 @@ Key Insights:
 5.Visual Representations: Gaining insights through visualizations like histograms, scatter plots, and heatmaps to make data patterns more apparent.
 
 
+OUTPUT: 
+
+![intern 1-4](https://github.com/Suma2923/CODETECH-INTERNSHIP-TASK1/assets/174889234/6f57a4e1-f97d-4130-bdd1-01cd075f3ed0)
