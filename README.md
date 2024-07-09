@@ -19,7 +19,7 @@ Objective:  The objective of this task is to conduct an Exploratory Data Analysi
 
 Key activities:
 1. Missing Values: Identifying missing or null values that might need to be addressed.
-2. 
+   
 2.Data Visualization:
 Histograms: To understand the distribution of individual numerical features.
 Box Plots: To identify outliers and understand the spread of the data.
