@@ -1,9 +1,14 @@
 # CODETECH-INTERNSHIP-TASK1
 Name: MOOLA SUMALATHA
+
 Company: CODTECH IT SOLUTIONS
+
 Id: CT6WDS90
+
 Domain: Data Science
+
 Duration: June to july 2024
+
 Mentor: Sravani Gouni
 
 overview of the project:
