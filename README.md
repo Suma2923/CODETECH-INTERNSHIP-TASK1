@@ -19,24 +19,37 @@ Objective:  The objective of this task is to conduct an Exploratory Data Analysi
 
 Key activities:
 1. Missing Values: Identifying missing or null values that might need to be addressed.
+2. 
 2.Data Visualization:
 Histograms: To understand the distribution of individual numerical features.
 Box Plots: To identify outliers and understand the spread of the data.
 Scatter Plots: To explore relationships between pairs of numerical features.
 Pair Plots: To visualize relationships between multiple features simultaneously.
 Heatmaps: To visualize correlation matrices and identify potential multicollinearity between features.
+
 3.Correlation Analysis:
 Calculating correlation coefficients to understand the relationships between different features.
 
+
 Technologies Used:
 1.Pandas: For data manipulation and analysis. It provides data structures like DataFrames for handling tabular data.
+
 2.NumPy: For numerical operations and handling arrays.
+
 3.Matplotlib: For creating static, animated, and interactive visualizations.
+
 4.Seaborn: For statistical data visualization, built on top of Matplotlib, it provides a high-level interface for drawing attractive and informative statistical graphics.
 
+
 Key Insights:
+
 1.Data Structure: Understanding the types of variables and overall structure of the dataset.
+
 2.Distribution Patterns: Identifying the distribution of individual variables, such as whether they are normally distributed or skewed.
+
 3.Correlations: Discovering relationships between variables and identifying which variables are strongly correlated.
+
 4.Outliers: Detecting any anomalies or outliers that might impact analysis.
+
 5.Visual Representations: Gaining insights through visualizations like histograms, scatter plots, and heatmaps to make data patterns more apparent.
+
