@@ -62,3 +62,5 @@ OUTPUT:
 
 ![intern 1-2](https://github.com/Suma2923/CODETECH-INTERNSHIP-TASK1/assets/174889234/81d9a924-e294-4697-9a9e-69e067884e5a)
 
+![intern 1-3](https://github.com/Suma2923/CODETECH-INTERNSHIP-TASK1/assets/174889234/4688bd02-1702-4b1b-bd59-a7b35c8bb5f9)
+
